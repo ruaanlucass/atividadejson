@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "title": "Savage",
+        "duration": "03:58",
+        "launchYear": 2021,
+        "favorited": false,
+        "artists": "Aespa"
+    },
+    {
+        "id": 2,
+        "title": "The Feels",
+        "duration": "03:17",
+        "launchYear": 2021,
+        "favorited": false,
+        "artists": "Twice"
+    },
+    {
+        "id": 3,
+        "title": "A Queda",
+        "duration": "02:52",
+        "launchYear": 2021,
+        "favorited": true,
+        "artists": "Gloria Groove"
+    },
+    {
+        "id": 4,
+        "title": "Don't Cry For Me",
+        "duration": "03:47",
+        "launchYear": 2020,
+        "favorited": true,
+        "artists": "Ailee, Sleeq"
+    },
+    {
+        "id": 5,
+        "title": "Rock With You",
+        "duration": "03:04",
+        "launchYear": 2021,
+        "favorited": true,
+        "artists": "Seventeen"
+    },
+    {
+        "id": 6,
+        "title": "Bad Guy",
+        "duration": "03:26",
+        "launchYear": 2019,
+        "favorited": false,
+        "artists": "Billie Eilish"
+    },
+    {
+        "id": 7,
+        "title": "Set Fire To The Rain",
+        "duration": "03:59",
+        "launchYear": 2011,
+        "favorited": true,
+        "artists": "Adele"
+    },
+    {
+        "id": 8,
+        "title": "Black Swan",
+        "duration": "03:38",
+        "launchYear": 2020,
+        "favorited": false,
+        "artists": "BTS"
+    },
+    {
+        "id": 9,
+        "title": "Señorita",
+        "duration": "03:25",
+        "launchYear": 2019,
+        "favorited": false,
+        "artists": "Shawn Mendes, Camila Cabello"
+    },
+    {
+        "id": 10,
+        "title": "Roller Coaster",
+        "duration": "03:38",
+        "launchYear": 2018,
+        "favorited": true,
+        "artists": "Chung Ha"
+    }
+]
